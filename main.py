@@ -6,3 +6,6 @@ def primeiro_gitHub():
 
 if __name__ == "__main__":
     primeiro_gitHub()
+
+git config --local user.name "Vinicio Junior Geremia"
+git config --local user.email "viniciogeremia@gmail.com"
